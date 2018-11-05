@@ -1,0 +1,11 @@
+noun = input("Enter a noun: ")
+object = input("Enter an object: ")
+food = input("Enter your least favorite food: ")
+bad_things = input("Enter the funniest thing that comes to mind: ")
+verb = input("Enter a verb: ")
+
+print("                  We Are The Champions") 
+print("I've taken my " + noun + " out.")
+print("And my " + object + " calls")
+print("You brought me " + food + " and " + bad_things + " and everything that comes with it")
+print("I " + verb + " you all.")
