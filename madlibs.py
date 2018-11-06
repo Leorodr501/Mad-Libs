@@ -204,6 +204,33 @@ print("On this " + noun + " he had some " + plural_noun + ", " + letter + " -3 "
 
 print("With a " + sound + ", " + sound + " here, and a " + sound + " " + sound + " there, everywhere a " + sound + "- " + sound + " " + letter + "- " + noun + ", " + letter + "- " + noun + " O.")
 
-## Mad Lib 9 
+## Mad Lib 9
 
+object = input("Enter an object: ")
+adjective = input("Enter an adjective: ")
+adjective = input("Enter another adjective: ")
+place = input("Enter a place: ")
+hobby = input("Enter a hobby: ")
+president = input("Enter the name of a president: ")
+food = input("Enter your fav food: ")
 
+print("Send up a signal throw me a/an " + object )
+print("It might not be " + adjective + " but it sure ain't " + adjective )
+print("I'm one step from " + place + " and two steps behind")
+print("I picked up " + hobby + " I called " + president + " who said " + food + " was the new national meal")
+
+## Mad Lib 10
+
+print("         Life In Technicolor")
+
+adjective = input("Enter an adjective: ")
+verb = input("Enter a verb in ing form: ")
+thing = input("Enter an interesting happening: ")
+celebrity = input("Enter a celebrity: ")
+adjective = input("Enter an adjective: ")
+
+print("There's a " + adjective + " wind blowing")
+print("Every night there, the headlights are " + verb )
+print("There's a " + thing + " coming")
+print("On the radio I heard " + celebrity + " talking about their pet's addiction to snickers")
+print("Baby, it's a " + adjective + " world")
